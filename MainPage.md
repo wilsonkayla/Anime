@@ -8,4 +8,4 @@
 | Recommendations | Genres | History |
 | ----------- | ----------- |-----------------|
 
-[title](RecsMain.md)
+[title](Recs/RecsMain.md)
