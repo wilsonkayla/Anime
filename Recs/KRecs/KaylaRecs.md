@@ -9,5 +9,6 @@
 ---
 ## 2. $\color{Orange}{GOH}$
 #### "The God Of Highschool"
+![GOH Image](GOH.jpg) 
 ### Summary 
 >#### The main protagonist is Mori Jin, a 17-year-old martial artist from Seoul, South Korea.[4] At the beginning of the story, he is invited to join a Martial Arts tournament called "The God of High School",In The event, sponsored by a shady corporation, brings together people from high schools all over South Korea on a regional. This is a national level tornument in order to select three representatives for the *World Tournament*. As a prize, the winner gets his wish fulfilled by the hosting corporation, no question asked.
