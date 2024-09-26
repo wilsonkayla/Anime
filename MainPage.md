@@ -5,7 +5,7 @@
 - [ ] History
 
 
-| Recommendations | Genres | History |
+| [Recommendations](Recs/RecsMain.md) | Genres | History |
 | ----------- | ----------- |-----------------|
 
-[title](Recs/RecsMain.md)
+
