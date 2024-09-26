@@ -3,7 +3,7 @@
 ---
 ## 1. $\color{red}{OnePunch}$
 #### "One Punch Man"
-![OnePunch Image](One.webp)
+![OnePunch Image](ONEP.webp)
 #### Summary
 > #### This storys follows the main character Sitama, who is the unofficial superhero for City Z, he come along to meet a person named Genos and takes him under his wing (unwillingly i might add) and they both decide to take the SuperHero's Accociation test, which would rank, and give you status as a superhero. However, Genos gets S-Rank which means most powerful, and Sitama gets C-Rank which is one of the lower level SuperHeros. Sitama is called "OnePunch Man" for a reason. He became so strong now it only takes him one "normal" punch to kill his ememies. Now, he searches for a worthy opponent after growing bored by a lack of challenge in a world filled with superheroes and villains.
 ---
