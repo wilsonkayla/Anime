@@ -8,4 +8,4 @@
 | Recommendations | Genres | History |
 | ----------- | ----------- |-----------------|
 
-[title](KRecs)
+[title](Recs)
