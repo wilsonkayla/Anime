@@ -15,6 +15,6 @@
 ---
 ## 3.  $\color{blue}{JJK}$
 #### "Jujutsu Kaisen"
-
+![JJK](JJK.webp)
 ### Summary
 >#### Yuji Itadori is an unnaturally physically strong high school student living in Sendai. In June 2018, before his grandfather dies, he instills two messages within Yuji: "always help others" and "die surrounded by people". Yuji's friends attract Curses to the school when they unseal a rotten finger talisman. Yuji swallows the finger to protect student Jujutsu Sorcerer Megumi Fushiguro, unwittingly becoming host to a powerful ancient sorcerer named Ryomen Sukuna. After this, Yuji gets control of his body and goes to Jujutsu High School to train as a sorcerer.
