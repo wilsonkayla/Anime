@@ -1,5 +1,5 @@
 # Anime
-| [Recommendations](Recs/RecsMain.md) | Genres | History |
+| [Recommendations](Recs/RecsMain.md) | [Genres](Genres/GenresMain.md) | History |
 | ----------- | ----------- |-----------------|
 > ##### Hello! Our names are Kayla and Dominique and on this Wiki we will be discussing things about Anime! Below, You will find a list of things,
 - [ ] Recommendations
