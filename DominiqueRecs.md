@@ -1,7 +1,6 @@
 # **Anime Recommendations**
-| [Recommendations](Recs/RecsMain.md) | [Genres](Genres/GenreMain.md) | [History](History/HistoryMain.md)|
-| ----------- | ----------- |-----------------|
-
+| [Recommendations]RecsMain.md) | 
+| ----------- | 
 > Hi! My name is Dominique and here's a list of mystery animes I've enjoyed watching in the past that I'd recommend to you guys below.
 
 ##  1.  $\color{Brown}{The Promised Neverland}$
