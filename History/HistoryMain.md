@@ -1,5 +1,5 @@
 # History of Anime
-| [Best Of Anime ](History/BestofAnime.md) | [Genres](Genres/GenreMain.md) | [History](History/HistoryMain.md)|
+| [Best Of Anime](History/BestofAnime.md) | [Genres](Genres/GenreMain.md) | [History](History/HistoryMain.md)|
 | ----------- | ----------- |-----------------|
 - [ ] Recommendations
 - [ ] Genres
