@@ -1,8 +1,8 @@
 # Genre's
-| [Recommendations](Recs/RecsMain.md) | [Genres](Genres/GenreMain.md) | [History](History/HistoryMain.md)|
+| [Recommendations](RecsMain.md) | [Genres](GenreMain.md) | [History](HistoryMain.md)|
 | ----------- | ----------- |-----------------|
 ---
-| [Romance](Romance/DominiqueRom.md) | [Thriller](Thriller/KaylaThriller.md) | 
+| [Romance](DominiqueRom.md) | [Thriller](KaylaThriller.md) | 
 | ----------- | ----------- 
 - [ ] Recommendations
 - [x] Genres
