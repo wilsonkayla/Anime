@@ -2,16 +2,17 @@
 >#### Hey, its Kayla again. Here are my Top 3 recc's for of thriller anime.
 ---
 ## 1. $\color{blue}{PerfectBlue}$
-
+![PerfectBlue Image](PB.jpeg)
 #### Summary 
 >#### Perfect Blue is the directorial debut of animator Satoshi Kon and is an adaptation of the 1991 novel Perfect Blue: Kanzen Hentai (released in English by Seven Seas Entertainment as Perfect Blue: Complete Metamorphosis) written by Yoshikazu Takeuchi. The film made its world premiere at the 1997 edition of the Fant-Asia film festival in Montreal, where it received awards for Best Asian Film and Best Animation Film. It went on to earn additional awards and critical praise at film festivals worldwide before opening in Japanese theaters in 1998.
 ---
 ## 2. $\color{Black}{DeathNote}$
-
+![DeathNote Image](DN.jpg)
 #### Summary
 >#### Light Yagami is an intelligent young man who resents what appears to be a relentless increase of crime and corruption in the world around him. His life undergoes a drastic change when he discovers a mysterious notebook, known as the "Death Note", lying on the ground. The Death Note's instructions claim that if a human's name is written within it, that person shall die. Light is initially skeptical of the notebook's authenticity, but after experimenting with it, he realizes that the Death Note is real. After meeting with the previous owner of the Death Note, a shinigami named Ryuk, Light plans to become a god and establish a new world order by passing his keen judgment on those he deems evil and anyone who gets in his way.
 ---
 ## 3. $\color{Red}{Tokyo Ghoul}$
+![ToykoGhoul Image](TG.jpg)
 
 #### Summary
 
