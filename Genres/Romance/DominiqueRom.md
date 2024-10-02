@@ -1,4 +1,6 @@
 # **Anime Genre: Romance**
+| [Genres](Genres/GenreMain.md) | 
+|------------|
 > A really popular genre when it comes to anime is romance! Here is a list of romance animes I'd recommend to you guys.
 
 ## 1. Your Lie in April
