@@ -1,5 +1,8 @@
 # *Genres: Thriller* 
-| [Genres](Genre/GenreMain.md) | 
+| [Recommendations](Recs/RecsMain.md) | [Genres](Genres/GenreMain.md) | [History](History/HistoryMain.md)|
+| ----------- | ----------- |-----------------|
+---
+| [Genres](GenreMain.md) | 
 |------------|
 >#### Hey, its Kayla again. Here are my Top 3 recc's for of thriller anime.
 ---
