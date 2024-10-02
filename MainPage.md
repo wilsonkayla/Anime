@@ -6,8 +6,6 @@
 - [ ] Genres
 - [ ] History
 > ##### Following this List, you will know what page you are on at that moment.
-``Acknowledgements``
 --
-The Creators Dominique and Kayla worked hard on this, If you want more information from them here are their contact links.
-
+###### Enjoy!
 
