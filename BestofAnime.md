@@ -1,5 +1,5 @@
 # *Best Of Anime*
-| [History](History/HistoryMain.md) | 
+| [History](HistoryMain.md) | 
 |------------|
 ---
 >#### Hey, In this section Ill be going over the publics opinion of the *Best of Anime*. I hope you take a trip down memory lane with this section!
