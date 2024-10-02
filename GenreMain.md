@@ -1,6 +1,6 @@
 # Genre's
-| [Recommendations](RecsMain.md) | [History](HistoryMain.md)|
-| ----------- | ----------- 
+[Anime](MainPage.md)| [Recommendations](RecsMain.md) | [History](HistoryMain.md)| 
+| ----------- | ----------- |------------|
 ---
 - [ ] Recommendations
 - [x] Genres
