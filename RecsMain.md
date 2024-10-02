@@ -1,6 +1,6 @@
 # Recs
 ---
-| [KaylaRecs](KRecs/KaylaRecs.md) | [DominiqueRecs](DRecs/Dominique.md) |
+| [KaylaRecs](KaylaRecs.md) | [DominiqueRecs](Dominique.md) |
 | ----------- | ----------- 
 - [x] Recommendations
 - [ ] Genres
