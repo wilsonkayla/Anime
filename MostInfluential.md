@@ -1,6 +1,6 @@
 # Influential Anime Artists
 ---
-| [History](History/HistoryMain.md) | 
+| [History](HistoryMain.md) | 
 |------------|
 
 > Here’s a brief overview of some of the most influential anime artists:
