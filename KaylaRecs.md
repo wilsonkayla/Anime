@@ -1,4 +1,6 @@
 # *Anime Recomdations* 
+| [Recommendations](RecsMain.md) 
+| ----------- | 
 > #### Hey, My name is Kayla and here are my top reccomdations for anime's you can watch. Here I will be focusing more on *Action* animes. 
 ---
 ## 1. $\color{red}{OnePunch}$
