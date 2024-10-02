@@ -1,5 +1,8 @@
 # History of Anime
-| [Best Of Anime](BestofAn/BestofAnime.md) | [Most Influential](MostInf/MostInfluential.md) | 
+| [Recommendations](RecsMain.md) | [Genres](GenreMain.md) | [History](HistoryMain.md)|
+| ----------- | ----------- |-----------------|
+---
+| [Best Of Anime](BestofAnime.md) | [Most Influential](MostInfluential.md) | 
 | ----------- | ----------- |
 - [ ] Recommendations
 - [ ] Genres
