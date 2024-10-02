@@ -1,6 +1,6 @@
 # History of Anime
-| [Recommendations](RecsMain.md) | [Genres](GenreMain.md) | 
-| ----------- | ----------- |
+[Anime](MainPage.md)|[Recommendations](RecsMain.md) | [Genres](GenreMain.md) | 
+| ----------- | ----------- |-----------|
 ---
 - [ ] Recommendations
 - [ ] Genres
